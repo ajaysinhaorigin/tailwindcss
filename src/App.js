@@ -1,6 +1,6 @@
 // import logo from "./logo.svg";
 import "./App.css";
-
+import Home from "./components/Home";
 function App() {
   return (
     <>
@@ -12,8 +12,9 @@ function App() {
         </ul>
       </nav>
       <div class="container">
-        <h1 class="text-blue-500">This is blue text</h1>
+        <h1 class="text-blue-500">This is blue text ajaysinhaorigin</h1>
       </div>
+      <Home />
     </>
   );
 }
